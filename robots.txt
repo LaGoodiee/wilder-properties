@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.widerpropertiesltd.com/sitemap.xml
